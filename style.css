@@ -153,6 +153,7 @@ i:hover {
     }
 
     .social-media {
+       display: block;
        float: unset;
        position: absolute;
        bottom: 0;
@@ -166,6 +167,7 @@ i:hover {
         padding: 15px 90px;
         font-size: 15px;
         margin-top: 25px;
+        margin-bottom: 100px;
     }
 
     .submit {
